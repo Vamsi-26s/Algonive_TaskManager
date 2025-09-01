@@ -23,10 +23,10 @@ It helps users keep track of their tasks with features like adding tasks, assign
 ## 🖼️ Screenshots
 
 ### Dashboard View
-![Dashboard]
+![Dashboard](./assets/screenshot1.png)
 
 ### Add Task View
-![Add Task]
+![Add Task](./assets/screenshot2.png)
 
 ---
 
@@ -42,4 +42,4 @@ It helps users keep track of their tasks with features like adding tasks, assign
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-manager-pro.git
+   git clone https://github.com/Vamsi-26s/Algonive_TaskManager.git
